@@ -1,0 +1,6 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+A & G Auto Parts,"346 Main St Ford City, PA 16226",40.767204,-79.52669,"346 MAIN ST, FORD CITY, PA, 16226",Exact,US Census
+A & G Auto Parts,"786 Rte 56 Apollo, PA 15613",40.584454,-79.54679,"786 RTE 56 E, APOLLO, PA, 15613",Match,US Census
+A & G Auto Parts,"4519 Rte 119 South Homer City, PA 15748",40.52218,-79.16049,"4519 RTE 119 S, HOMER CITY, PA, 15748",Match,US Census
+A & G Auto Parts,"US Rte 422 Elderton, PA 15736",40.9693766,-80.2154765,"US-422, United States",Match,Google
+A B C Auto Parts,"213 W Roy Furman Hwy Wind Ridge , PA 15380",39.8847901,-80.4982803,"213 W Roy Furman Hwy, Wind Ridge, PA 15380, USA",Match,Google
